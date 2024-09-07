@@ -1,4 +1,3 @@
-
 function pesquisar() {
     // Obtém a seção HTML onde os resultados serão exibidos
     let section = document.getElementById("resultados-pesquisa");
